@@ -22,13 +22,6 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(
-      to right,
-      rgba(59, 69, 179, 0.1),
-      rgba(59, 69, 179, 0.1)
-    ),
-    url('https://media.istockphoto.com/id/1153103412/vector/gold-confetti-seamless-pattern.jpg?s=612x612&w=0&k=20&c=iisaD9KDlKWVJIddEWK0y1kjXwAQ_s1509Pk20ruVQI=');
-
   color: #212121;
   line-height: 1.5;
 }
@@ -40,7 +33,7 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
-  border: 2px solid; 
+  border: 2px solid;
   border-radius: 5px;
 }
 
@@ -61,8 +54,7 @@ body {
   gap: 15px;
   padding: 5px;
   color: #fff;
-  background-color: pink
-  border-radius: 5px;
+  background-color: pink;
 }
 
 .country {
